@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1512814741 source:c:\users\dell\onedrive\c\4-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"functions.h"
+
+1512573514 c:\users\dell\onedrive\c\4-3\types.h
+
+1512814703 c:\users\dell\onedrive\c\4-3\functions.h
+
+1512814853 source:c:\users\dell\onedrive\c\4-3\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"types.h"
+	"functions.h"
+
